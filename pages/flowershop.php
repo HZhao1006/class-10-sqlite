@@ -21,6 +21,10 @@ $nav_flowershop_class = 'active_page';
     <p>Welcome to the 2300 Flower Shop! We are a wholesale supplier of flowers. We specialize in bulk sales of fresh cut-flowers.</p>
 
     <section>
+      products{
+        id: INT {PK, U, NN, AI},
+        
+      }
       <h2>Sample Request Form</h2>
 
       <p>Our premium quality flowers are the best in Ithaca. See the quality yourself! Use the form below to request a <em>free</em> sample bouquet of roses, daisies, or gardenias.</p>
